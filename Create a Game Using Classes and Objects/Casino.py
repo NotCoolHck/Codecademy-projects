@@ -83,3 +83,17 @@ class Blackjack(Games):
         else:
             print("Dealer wins.")
             player.lose()
+
+
+
+player = Player("Alice", 500)
+blackjack = Blackjack(10, 100)
+print(player.join_game(blackjack))
+
+try:
+    choice1 = input("How much do you want to bet: ")
+except EOFError:
+    print("EOFError, bet = 50")
+print(player.place_bet(int(choice1), blackjack))
+
+blackjack.play(player)
