@@ -12,4 +12,6 @@ This repository serves as a collection of all the projects completed during the 
 
 ### 2. Portfolio project: Python Terminal Game
 
-### 3. [Don't forget to add future projects]
+### 3. Trees, Choose Your Own Adventure Wilderness Escape
+
+### 4. [Don't forget to add future projects]
