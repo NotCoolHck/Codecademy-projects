@@ -10,6 +10,6 @@ This repository serves as a collection of all the projects completed during the 
 
 ### 1. The Boredless Tourist
 
-### 2. Create a Game Using Classes and Objects
+### 2. Portfolio project: Python Terminal Game
 
 ### 3. [Don't forget to add future projects]
